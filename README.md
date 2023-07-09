@@ -1,4 +1,4 @@
-
+§
 # Module 11—Draft the Problem Statement
 
 ## Requirements
@@ -24,7 +24,7 @@ Submission Instructions:
 
 ## Submission
 
-We aim to examine the factors influencing corruption levels across different countries, with the Corruption Perceptions Index (CPI) as the target variable. The data required includes indicators such as GDP, education level, political stability, income inequality, rule of law, Human Development Index, freedom of the press, unemployment rates, and population demographics. These data can be sourced from Transparency International, the World Bank, World Justice Project, Reporters Without Borders, UNDP, and various national statistical agencies.
+We aim to examine the factors influencing corruption levels across different countries,  with the Corruption Perceptions Index (CPI) as the target variable. The data required includes indicators such as GDP, education level, political stability, income inequality, rule of law, Human Development Index, freedom of the press, unemployment rates, and population demographics. These data can be sourced from Transparency International, the World Bank, World Justice Project, Reporters Without Borders, UNDP, and various national statistical agencies.
 
 # Module 17—Problem Statement
 
