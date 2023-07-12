@@ -93,15 +93,16 @@ Due to the high degree of correlation among the indicators, it is difficult to i
 
 ##### Next Steps
 
-These are excellent future steps to enhance your analysis and model performance. To summarize:
+These are excellent future steps to enhance the analysis and model performance. To summarize:
 
 - Conduct an in-depth analysis of each indicator in the World Development Indicators (WDI) dataset to further refine the selection of significant indicators. This could involve more detailed statistical tests or applying feature selection techniques to identify the most relevant indicators for predicting CPI.
 
-- Consider fine-tuning the Gradient Boosting Regressor model parameters using techniques such as GridSearchCV or RandomizedSearchCV. By exploring different hyperparameters, you may improve the predictive accuracy and reduce the error rate of your model.
+- Consider fine-tuning the Gradient Boosting Regressor model parameters using techniques such as GridSearchCV or RandomizedSearchCV. By exploring different hyperparameters, we may improve the predictive accuracy and reduce the error rate of our model.
 
-- Reassess and refine your evaluation metrics to improve the relevance of the models and mitigate the impact of collinearity among the indicators. This could involve utilizing metrics that account for multicollinearity, like VIF (Variance Inflation Factor), or selecting more appropriate metrics based on the nature and distribution of your target variable (CPI).
+- Reassess and refine our evaluation metrics to improve the relevance of the models and mitigate the impact of collinearity among the indicators. This could involve utilizing metrics that account for multicollinearity, like VIF (Variance Inflation Factor), or selecting more appropriate metrics based on the nature and distribution of our target variable (CPI).
 
-By implementing these strategies, you could potentially enhance the predictive power and interpretability of your models.
+By implementing these strategies, we could potentially enhance the predictive power and interpretability of our models.
+
 
 ##### Contact and Further Information
 
