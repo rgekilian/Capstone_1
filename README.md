@@ -99,7 +99,7 @@ These are excellent future steps to enhance the analysis and model performance. 
 
 - Consider fine-tuning the Gradient Boosting Regressor model parameters using techniques such as GridSearchCV or RandomizedSearchCV. By exploring different hyperparameters, we may improve the predictive accuracy and reduce the error rate of our model.
 
-- Reassess and refine our evaluation metrics to improve the relevance of the models and mitigate the impact of collinearity among the indicators. This could involve utilizing metrics that account for multicollinearity, like VIF (Variance Inflation Factor), or selecting more appropriate metrics based on the nature and distribution of our target variable (CPI).
+- Reassess and refine our evaluation metrics to improve the relevance of the models and mitigate the impact of collinearity among the indicators. This could involve selecting more appropriate metrics.
 
 By implementing these strategies, we could potentially enhance the predictive power and interpretability of our models.
 
